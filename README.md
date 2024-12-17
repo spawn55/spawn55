@@ -1,4 +1,4 @@
-https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24940464/COD_S06_Spawn_3_MilSim.jpeg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=828
+[![MasterHead](https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24940464/COD_S06_Spawn_3_MilSim.jpeg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=828)
 <h1 align="center">Hi 👋, I'm Samet Yuksel</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
